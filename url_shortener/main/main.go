@@ -1,4 +1,4 @@
-package urlshort
+package main
 
 import (
 	"fmt"
@@ -10,12 +10,18 @@ import (
 )
 
 func main() {
-	content, err := ioutil.ReadFile("./../example.yml")
+	content, err := ioutil.ReadFile("./../example.yaml")
 	if err != nil {
 		fmt.Println("Error : File could not be read")
 		return
 	}
 
+	/*
+		This mux will be used as a fallback handler.
+		showError function is registered to the newly created ServeMux.
+		By doing this, it can be ensured that if the path is not registered
+		then, instead of throwing errors, A 404 error message will be displayed.
+	*/
 	mux := http.NewServeMux()
 	mux.Handle("/", http.HandlerFunc(showError))
 
