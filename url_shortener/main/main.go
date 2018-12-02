@@ -17,9 +17,14 @@ func main() {
 	}
 
 	mux := http.NewServeMux()
+	mux.Handle("/", http.HandlerFunc(showError))
+
 	yamlhandler, err := urlshort.YAMLHandler(content, mux)
 
 	log.Println("Listening...")
 	http.ListenAndServe(":3000", yamlhandler)
+}
 
+func showError(w http.ResponseWriter, r *http.Request) {
+	fmt.Fprintln(w, "ERROR 404: Page not found")
 }
