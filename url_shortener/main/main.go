@@ -1,6 +1,7 @@
 package main
 
 import (
+	"flag"
 	"fmt"
 	"io/ioutil"
 	"log"
@@ -10,7 +11,10 @@ import (
 )
 
 func main() {
-	content, err := ioutil.ReadFile("./../example.yaml")
+	// filepath is used to accept a YAML file as a flag
+	var filepath = flag.String("path", "./../example.yaml", "path of the YAML file")
+	flag.Parse()
+	content, err := ioutil.ReadFile(*filepath)
 	if err != nil {
 		fmt.Println("Error : File could not be read")
 		return
