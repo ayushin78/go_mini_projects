@@ -18,7 +18,9 @@ func main() {
 		panic(err)
 	}
 
+	fs := http.FileServer(http.Dir("static"))
 	mux := http.NewServeMux()
+	mux.Handle("/static/", http.StripPrefix("/static/", fs))
 	mux.Handle("/cyoa/", http.HandlerFunc(showIntro))
 	ah := adventureHandler(adventure, mux)
 	log.Println("Listening...")

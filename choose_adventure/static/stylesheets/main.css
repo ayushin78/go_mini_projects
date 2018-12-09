@@ -1,0 +1,59 @@
+body {
+  font-family: helvetica, arial;
+  /* background: url("/static/images/flowers.jpg");
+  background-attachment: fixed;
+  background-size: cover; */
+}
+
+h1  {
+  text-align:center;
+  position:relative;
+  color: rgb(19, 41, 163);
+  border-top: 2px solid #424e57;
+  letter-spacing: 1px;
+  clear: both;
+  font-size: 16px;
+  font-family: 'Roboto Condensed', sans-serif ; 
+  padding-top: 50px;
+  padding-bottom: 15px;
+}
+.links{
+    padding-top: 10px;
+  letter-spacing: 1px;
+  color:  rgb(19, 41, 163);
+  clear: both;
+  font-size: 15px;
+  font-family: 'Roboto Condensed', sans-serif ;
+}
+li{
+    padding: 5px;
+}
+a:visited, a:active {
+    text-decoration: none;
+    color:  rgb(19, 41, 163) !important;
+}
+a:hover {
+    color: #08344d;
+}
+
+.story{
+border-bottom: 2px solid #424e57;
+padding-bottom: 30px;
+
+}
+.page {
+  width: 80%;
+  max-width: 500px;
+  margin: auto;
+  color:#23272b;
+  padding: 80px;
+  background:rgba(236, 208, 52, 0.705);
+  border: 1px solid #eee;
+  box-shadow: 0 10px 6px -6px #777;
+  padding-bottom: 20px;
+}
+p {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(12, 12, 12);
+    font-size: 17px;  
+}
