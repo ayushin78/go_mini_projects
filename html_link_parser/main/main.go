@@ -1,6 +1,7 @@
 package main
 
 import (
+	"flag"
 	"fmt"
 	"html/template"
 	"io/ioutil"
@@ -12,10 +13,18 @@ import (
 )
 
 func main() {
-	content, _ := ioutil.ReadFile("../example.html")
+	var filepath = flag.String("path", "./../example.html", "path of the HTML file")
+	flag.Parse()
+	content, err := ioutil.ReadFile(*filepath)
+	if err != nil {
+		fmt.Println("Error : File could not be read")
+		return
+	}
+
 	doc, _ := html.Parse(strings.NewReader(string(content)))
 
 	links := htmllinkparser.ExtractLinks(doc, make([]htmllinkparser.Link, 0))
+
 	mux := http.NewServeMux()
 	mux.Handle("/", http.HandlerFunc(showError))
 	mh := myHandler(links)
@@ -26,7 +35,7 @@ func main() {
 
 func myHandler(links []htmllinkparser.Link) http.HandlerFunc {
 	return func(w http.ResponseWriter, r *http.Request) {
-		t, _ := template.ParseFiles("../templates/links.html")
+		t, _ := template.ParseFiles("templates/links.html")
 		err := t.Execute(w, links)
 		if err != nil {
 			panic(err)

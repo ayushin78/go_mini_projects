@@ -14,6 +14,7 @@ type Link struct {
 
 // ExtractLinks extracts the anchor tags Link and text from the html node passed
 func ExtractLinks(n *html.Node, links []Link) []Link {
+
 	if n.Type == html.ElementNode && n.Data == "a" {
 		href := n.Attr[0].Val
 		data := n.FirstChild.Data
