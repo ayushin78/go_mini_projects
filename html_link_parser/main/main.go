@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"html/template"
 	"io/ioutil"
+	"log"
 	"net/http"
 	"strings"
 
@@ -13,10 +14,20 @@ import (
 )
 
 func main() {
-	var filepath = flag.String("path", "./example.html", "path of the HTML file")
+	var rootLink = flag.String("path", "./example.html", "path of the HTML file")
 	flag.Parse()
-	fmt.Println(*filepath)
-	content, err := ioutil.ReadFile(*filepath)
+	fmt.Println(*rootLink)
+
+	resp, err := http.Get(*rootLink)
+	if err != nil {
+		log.Fatal(err)
+	}
+	defer resp.Body.Close()
+	if resp.StatusCode != 200 {
+		log.Fatalf("status code error : %d %s", resp.StatusCode, resp.Status)
+	}
+
+	content, err := ioutil.ReadAll(resp.Body)
 	if err != nil {
 		fmt.Println("Error : File could not be read")
 		return
