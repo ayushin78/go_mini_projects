@@ -8,13 +8,14 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/ayushin78/go_mini_projects/html_link_parser"
+	htmllinkparser "github.com/ayushin78/go_mini_projects/html_link_parser"
 	"golang.org/x/net/html"
 )
 
 func main() {
-	var filepath = flag.String("path", "./../example.html", "path of the HTML file")
+	var filepath = flag.String("path", "./example.html", "path of the HTML file")
 	flag.Parse()
+	fmt.Println(*filepath)
 	content, err := ioutil.ReadFile(*filepath)
 	if err != nil {
 		fmt.Println("Error : File could not be read")
