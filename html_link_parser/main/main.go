@@ -4,13 +4,9 @@ import (
 	"flag"
 	"fmt"
 	"html/template"
-	"io/ioutil"
-	"log"
 	"net/http"
-	"strings"
 
-	htmllinkparser "github.com/ayushin78/go_mini_projects/html_link_parser"
-	"golang.org/x/net/html"
+	"github.com/ayushin78/go_mini_projects/html_link_parser"
 )
 
 func main() {
@@ -18,24 +14,7 @@ func main() {
 	flag.Parse()
 	fmt.Println(*rootLink)
 
-	resp, err := http.Get(*rootLink)
-	if err != nil {
-		log.Fatal(err)
-	}
-	defer resp.Body.Close()
-	if resp.StatusCode != 200 {
-		log.Fatalf("status code error : %d %s", resp.StatusCode, resp.Status)
-	}
-
-	content, err := ioutil.ReadAll(resp.Body)
-	if err != nil {
-		fmt.Println("Error : File could not be read")
-		return
-	}
-
-	doc, _ := html.Parse(strings.NewReader(string(content)))
-
-	links := htmllinkparser.ExtractLinks(doc, make([]htmllinkparser.Link, 0))
+	links := htmllinkparser.ExtractLinks(*rootLink, make([]htmllinkparser.Link, 0))
 
 	mux := http.NewServeMux()
 	mux.Handle("/", http.HandlerFunc(showError))

@@ -2,6 +2,8 @@ package htmllinkparser
 
 import (
 	"fmt"
+	"log"
+	"net/http"
 
 	"golang.org/x/net/html"
 )
@@ -12,25 +14,50 @@ type Link struct {
 	Text string
 }
 
-// ExtractLinks extracts the anchor tags Link and text from the html node passed
-func ExtractLinks(n *html.Node, links []Link) []Link {
-	var href, data string
-	if n.Type == html.ElementNode && n.Data == "a" {
-		for _, attr := range n.Attr {
-			if attr.Key == "href" {
-				href = attr.Val
-				data = n.FirstChild.Data
+// ExtractLinks extracts the anchor tags Link and text from the link passed
+func ExtractLinks(rootLink string, links []Link) []Link {
+	resp, err := http.Get(rootLink)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	defer resp.Body.Close()
+	if resp.StatusCode != 200 {
+		log.Fatalf("status code error : %d %s", resp.StatusCode, resp.Status)
+	}
+
+	z := html.NewTokenizer(resp.Body)
+
+	for {
+		tt := z.Next()
+
+		switch {
+		case tt == html.ErrorToken:
+			return links
+
+		case tt == html.StartTagToken:
+			t := z.Token()
+
+			isAnchor := t.Data == "a"
+			if isAnchor {
+				for _, attr := range t.Attr {
+					if attr.Key == "href" {
+						href := attr.Val
+						data := ""
+
+						if z.Next() == html.TextToken {
+							data = z.Token().Data
+						}
+						link := Link{href, data}
+						links = append(links, link)
+						break
+					}
+				}
 			}
+
 		}
 
-		l := Link{href, data}
-		links = append(links, l)
 	}
-
-	for c := n.FirstChild; c != nil; c = c.NextSibling {
-		links = ExtractLinks(c, links)
-	}
-	return links
 }
 
 // ViewLinks views all the extracted links
