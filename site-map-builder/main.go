@@ -4,11 +4,10 @@ import (
 	"flag"
 	"fmt"
 	"log"
-	"net/http"
 	"net/url"
+	"strings"
 
 	"github.com/ayushin78/go_mini_projects/html_link_parser"
-	"golang.org/x/net/html"
 )
 
 func main() {
@@ -24,6 +23,7 @@ func main() {
 		},
 	}
 
+	domain := strings.Trim(*rootlink, "https:// http://")
 	for len(links) > 0 {
 		currentlink := links[0]
 		links = links[1:]
@@ -31,15 +31,9 @@ func main() {
 		_, visited := visitedLinks[currentlink]
 		fmt.Println(currentlink.Href)
 
-		if !visited && haveSameDomain(currentlink.Href, "www.taylorswift.com") {
+		if !visited && haveSameDomain(currentlink.Href, domain) {
 
-			resp, err := http.Get(currentlink.Href)
-			if err != nil {
-				log.Fatal(err)
-			}
-
-			doc, _ := html.Parse(resp.Body)
-			links = htmllinkparser.ExtractLinks(doc, links)
+			links = htmllinkparser.ExtractLinks(currentlink.Href, links)
 
 			visitedLinks[currentlink] = true
 		}
@@ -54,7 +48,7 @@ func haveSameDomain(link string, domain string) bool {
 	if err != nil {
 		log.Fatal(err)
 	}
-	fmt.Println(u.Hostname())
+
 	if u.Hostname() == domain {
 		return true
 	}
