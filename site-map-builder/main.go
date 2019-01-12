@@ -3,7 +3,6 @@ package main
 import (
 	"flag"
 	"fmt"
-	"log"
 	"net/url"
 	"strings"
 
@@ -23,7 +22,10 @@ func main() {
 		},
 	}
 
-	domain := strings.Trim(*rootlink, "https:// http://")
+	*rootlink = strings.TrimSpace(*rootlink)
+	rootURL, _ := url.Parse(*rootlink)
+	domain := rootURL.Hostname()
+
 	for len(links) > 0 {
 		currentlink := links[0]
 		links = links[1:]
@@ -44,12 +46,15 @@ func main() {
 
 func haveSameDomain(link string, domain string) bool {
 
+	link = strings.TrimSpace(link)
 	u, err := url.Parse(link)
 	if err != nil {
-		log.Fatal(err)
+		fmt.Println("error found")
+		return false
 	}
 
 	if u.Hostname() == domain {
+		fmt.Println(link + "---- " + domain)
 		return true
 	}
 	return false
