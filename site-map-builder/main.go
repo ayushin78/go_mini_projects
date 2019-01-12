@@ -3,6 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
+	"log"
 	"net/url"
 	"strings"
 
@@ -10,52 +11,66 @@ import (
 )
 
 func main() {
-	var rootlink = flag.String("path", "./../example.html", "path of the HTML file")
+	var rootlink = flag.String("path", "https://example.com", "path of the url")
 	flag.Parse()
 
 	visitedLinks := make(map[htmllinkparser.Link]bool)
 
+	crawl(*rootlink, visitedLinks)
+
+	fmt.Println(len(visitedLinks))
+}
+
+func crawl(rootlink string, visitedLinks map[htmllinkparser.Link]bool) {
+	rootlink = strings.TrimSpace(rootlink)
+	rootURL, err := url.Parse(rootlink)
+	if err != nil {
+		log.Fatal("Invalid url")
+		return
+	}
+
 	links := []htmllinkparser.Link{
 		htmllinkparser.Link{
-			Href: *rootlink,
+			Href: rootURL.String(),
 			Text: "root",
 		},
 	}
-
-	*rootlink = strings.TrimSpace(*rootlink)
-	rootURL, _ := url.Parse(*rootlink)
-	domain := rootURL.Hostname()
 
 	for len(links) > 0 {
 		currentlink := links[0]
 		links = links[1:]
 
 		_, visited := visitedLinks[currentlink]
-		fmt.Println(currentlink.Href)
+		currentURL, err := getAbsoluteURL(currentlink.Href, rootURL)
+		if err != nil {
+			continue // invalid url
+		}
 
-		if !visited && haveSameDomain(currentlink.Href, domain) {
-
-			links = htmllinkparser.ExtractLinks(currentlink.Href, links)
-
+		if !visited && haveSameHost(currentURL, rootURL) {
+			links = htmllinkparser.ExtractLinks(currentURL.String(), links)
 			visitedLinks[currentlink] = true
 		}
 	}
-
-	fmt.Println(len(visitedLinks))
 }
 
-func haveSameDomain(link string, domain string) bool {
-
-	link = strings.TrimSpace(link)
-	u, err := url.Parse(link)
+func getAbsoluteURL(rawurl string, rootURL *url.URL) (*url.URL, error) {
+	rawurl = strings.TrimSpace(rawurl) // remove all leading spaces
+	u, err := url.Parse(rawurl)        // parses rawuurl
 	if err != nil {
-		fmt.Println("error found")
-		return false
+		return u, err
 	}
 
-	if u.Hostname() == domain {
-		fmt.Println(link + "---- " + domain)
+	// get absolute path from relative path
+	if !u.IsAbs() {
+		u = rootURL.ResolveReference(rootURL)
+	}
+	return u, nil
+}
+
+func haveSameHost(currentURL *url.URL, rootURL *url.URL) bool {
+	if currentURL.Hostname() == rootURL.Hostname() {
 		return true
 	}
+
 	return false
 }
