@@ -2,8 +2,7 @@ package htmllinkparser
 
 import (
 	"fmt"
-	"log"
-	"net/http"
+	"io"
 
 	"golang.org/x/net/html"
 )
@@ -14,19 +13,10 @@ type Link struct {
 	Text string
 }
 
-// ExtractLinks extracts the anchor tags Link and text from the link passed
-func ExtractLinks(rootLink string, links []Link) []Link {
-	resp, err := http.Get(rootLink)
-	if err != nil {
-		log.Fatal(err)
-	}
+// ExtractLinks extracts the anchor tags Link and text from the url passed
+func ExtractLinks(r io.Reader, links []Link) []Link {
 
-	defer resp.Body.Close()
-	if resp.StatusCode != 200 {
-		log.Fatalf("status code error : %d %s", resp.StatusCode, resp.Status)
-	}
-
-	z := html.NewTokenizer(resp.Body)
+	z := html.NewTokenizer(r)
 
 	for {
 		tt := z.Next()

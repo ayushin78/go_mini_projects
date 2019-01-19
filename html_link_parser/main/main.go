@@ -4,6 +4,7 @@ import (
 	"flag"
 	"fmt"
 	"html/template"
+	"log"
 	"net/http"
 
 	"github.com/ayushin78/go_mini_projects/html_link_parser"
@@ -14,7 +15,17 @@ func main() {
 	flag.Parse()
 	fmt.Println(*rootLink)
 
-	links := htmllinkparser.ExtractLinks(*rootLink, make([]htmllinkparser.Link, 0))
+	resp, err := http.Get(*rootLink)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	defer resp.Body.Close()
+	if resp.StatusCode != 200 {
+		log.Fatalf("status code error : %d %s", resp.StatusCode, resp.Status)
+	}
+
+	links := htmllinkparser.ExtractLinks(resp.Body, make([]htmllinkparser.Link, 0))
 
 	mux := http.NewServeMux()
 	mux.Handle("/", http.HandlerFunc(showError))
