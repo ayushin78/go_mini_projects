@@ -3,6 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
+	"html/template"
 	"log"
 	"net/http"
 	"net/url"
@@ -16,19 +17,28 @@ func main() {
 	var rootlink = flag.String("url", "https://example.com", "path of the url")
 	flag.Parse()
 
-	visitedLinks := make(map[string]bool)
+	foundLinks := crawl(*rootlink)
 
-	crawl2(*rootlink, visitedLinks)
-
-	fmt.Println(len(visitedLinks))
+	mux := http.NewServeMux()
+	mux.Handle("/", http.HandlerFunc(showError))
+	mh := myHandler(foundLinks)
+	mux.Handle("/links/", mh)
+	fmt.Println("Server started at port 8080")
+	http.ListenAndServe(":8080", mux)
 }
 
-func crawl2(rootlink string, visitedLinks map[string]bool) {
+func indexHandler(w http.ResponseWriter, r *http.Request) {
+	fmt.Fprintf(w, "<h1>Whoa, Go is neat!</h1>")
+}
+
+func crawl(rootlink string) map[string]string {
+	visitedLinks := make(map[string]string)
+
 	rootlink = strings.TrimSpace(rootlink)
 	rootURL, err := url.Parse(rootlink)
 	if err != nil {
 		log.Fatal("Invalid url")
-		return
+		return visitedLinks
 	}
 
 	links := make(chan htmllinkparser.Link, 10)
@@ -41,20 +51,22 @@ func crawl2(rootlink string, visitedLinks map[string]bool) {
 		select {
 		case currentlink := <-links:
 			currentURL, err := getAbsoluteURL(currentlink.Href, rootURL)
-			_, visited := visitedLinks[currentURL.String()]
+			currentlink.Href = currentURL.String()
+			_, visited := visitedLinks[currentlink.Href]
 			if err != nil {
 				continue // invalid url
 			}
 
 			if !visited && haveSameHost(currentURL, rootURL) {
 				fmt.Printf("\n start -> %v \n", currentURL.String())
-				go crawlLink(currentURL.String(), links)
-				visitedLinks[currentURL.String()] = true
+
+				go crawlLink(currentlink.Href, links)
+				visitedLinks[currentlink.Href] = currentlink.Text
 			}
 
 		case <-time.After(2 * time.Second):
 			fmt.Println("channel closed")
-			return
+			return visitedLinks
 		}
 	}
 }
@@ -98,6 +110,19 @@ func haveSameHost(currentURL *url.URL, rootURL *url.URL) bool {
 	if currentURL.Hostname() == rootURL.Hostname() {
 		return true
 	}
-
 	return false
+}
+
+func myHandler(foundLinks map[string]string) http.HandlerFunc {
+	return func(w http.ResponseWriter, r *http.Request) {
+		t, _ := template.ParseFiles("templates/links.html")
+		err := t.Execute(w, foundLinks)
+		if err != nil {
+			panic(err)
+		}
+	}
+}
+
+func showError(w http.ResponseWriter, r *http.Request) {
+	w.Write([]byte("404 : Page not found"))
 }
