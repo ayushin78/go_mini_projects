@@ -4,6 +4,7 @@ import (
 	"flag"
 	"fmt"
 	"log"
+	"net/http"
 	"net/url"
 	"strings"
 
@@ -11,17 +12,17 @@ import (
 )
 
 func main() {
-	var rootlink = flag.String("path", "https://example.com", "path of the url")
+	var rootlink = flag.String("url", "https://example.com", "path of the url")
 	flag.Parse()
 
-	visitedLinks := make(map[htmllinkparser.Link]bool)
+	visitedLinks := make(map[string]bool)
 
 	crawl(*rootlink, visitedLinks)
 
 	fmt.Println(len(visitedLinks))
 }
 
-func crawl(rootlink string, visitedLinks map[htmllinkparser.Link]bool) {
+func crawl(rootlink string, visitedLinks map[string]bool) {
 	rootlink = strings.TrimSpace(rootlink)
 	rootURL, err := url.Parse(rootlink)
 	if err != nil {
@@ -39,16 +40,26 @@ func crawl(rootlink string, visitedLinks map[htmllinkparser.Link]bool) {
 	for len(links) > 0 {
 		currentlink := links[0]
 		links = links[1:]
-
-		_, visited := visitedLinks[currentlink]
 		currentURL, err := getAbsoluteURL(currentlink.Href, rootURL)
+		_, visited := visitedLinks[currentURL.String()]
 		if err != nil {
 			continue // invalid url
 		}
 
 		if !visited && haveSameHost(currentURL, rootURL) {
-			links = htmllinkparser.ExtractLinks(currentURL.String(), links)
-			visitedLinks[currentlink] = true
+			fmt.Printf("\n start : %v \n", currentURL.String())
+			resp, err := http.Get(currentURL.String())
+			if err != nil {
+				log.Fatal(err)
+			}
+
+			defer resp.Body.Close()
+			if resp.StatusCode != 200 {
+				log.Fatalf("status code error : %d %s", resp.StatusCode, resp.Status)
+			}
+
+			links = htmllinkparser.ExtractLinks(resp.Body, links)
+			visitedLinks[currentURL.String()] = true
 		}
 	}
 }
@@ -62,7 +73,7 @@ func getAbsoluteURL(rawurl string, rootURL *url.URL) (*url.URL, error) {
 
 	// get absolute path from relative path
 	if !u.IsAbs() {
-		u = rootURL.ResolveReference(rootURL)
+		u = rootURL.ResolveReference(u)
 	}
 	return u, nil
 }
