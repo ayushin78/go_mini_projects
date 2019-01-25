@@ -1,0 +1,1354 @@
+
+ start -> https://www.taylorswift.com 
+
+ start -> https://www.taylorswift.com/news 
+
+ start -> https://www.taylorswift.com/ 
+
+ start -> https://www.taylorswift.com/events 
+
+ start -> https://www.taylorswift.com/releases 
+
+ start -> https://www.taylorswift.com/mailinglist 
+
+ start -> https://www.taylorswift.com/news/298093 
+
+ start -> https://www.taylorswift.com/news/298080 
+
+ start -> https://www.taylorswift.com/news/298065 
+
+ start -> https://www.taylorswift.com?h=2018-12-07+10%3A00%3A00&p=2&d=next 
+
+ start -> https://www.taylorswift.com?h=l 
+
+ start -> https://www.taylorswift.com/taylor-privacy-policy/ 
+
+ start -> https://www.taylorswift.com/terms-of-use/ 
+
+ start -> https://www.taylorswift.com/news/ 
+
+ start -> https://www.taylorswift.com/events/past 
+
+ start -> https://www.taylorswift.com/news/298063 
+
+ start -> https://www.taylorswift.com/news/298061 
+
+ start -> https://www.taylorswift.com/news/298051 
+
+ start -> https://www.taylorswift.com?h=2018-12-06+08%3A00%3A00&p=1&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-11-30+14%3A00%3A00&p=3&d=next 
+
+ start -> https://www.taylorswift.com/api/rss/news 
+
+ start -> https://www.taylorswift.com/news/298028 
+
+ start -> https://www.taylorswift.com/news/298016 
+
+ start -> https://www.taylorswift.com/news/298011 
+
+ start -> https://www.taylorswift.com/news/297881 
+
+ start -> https://www.taylorswift.com/news?h=2018-10-09+20%3A00%3A00&p=2&d=next 
+
+ start -> https://www.taylorswift.com/news?h=l 
+
+ start -> https://www.taylorswift.com/news/295480 
+
+ start -> https://www.taylorswift.com/news/295478 
+
+ start -> https://www.taylorswift.com/news/295482 
+
+ start -> https://www.taylorswift.com?h=2017-08-24+21%3A00%3A00&p=31&d=prev 
+
+ start -> https://www.taylorswift.com/cdn-cgi/l/email-protection 
+
+ start -> https://www.taylorswift.com/webmaster@taylorswift.com 
+
+ start -> https://www.taylorswift.com/privacy@taylorswift.com 
+
+ start -> https://www.taylorswift.com/dmca@roseipfirm.com 
+
+ start -> https://www.taylorswift.com#lyrics-129743 
+
+ start -> https://www.taylorswift.com#lyrics-129753 
+
+ start -> https://www.taylorswift.com#lyrics-129763 
+
+ start -> https://www.taylorswift.com#lyrics-129773 
+
+ start -> https://www.taylorswift.com#lyrics-129783 
+
+ start -> https://www.taylorswift.com#lyrics-129793 
+
+ start -> https://www.taylorswift.com#lyrics-129803 
+
+ start -> https://www.taylorswift.com#lyrics-129813 
+
+ start -> https://www.taylorswift.com#lyrics-129823 
+
+ start -> https://www.taylorswift.com#lyrics-129833 
+
+ start -> https://www.taylorswift.com#lyrics-129843 
+
+ start -> https://www.taylorswift.com#lyrics-129853 
+
+ start -> https://www.taylorswift.com#lyrics-129863 
+
+ start -> https://www.taylorswift.com#lyrics-80251 
+
+ start -> https://www.taylorswift.com#lyrics-80261 
+
+ start -> https://www.taylorswift.com#lyrics-80271 
+
+ start -> https://www.taylorswift.com#lyrics-80281 
+
+ start -> https://www.taylorswift.com#lyrics-80291 
+
+ start -> https://www.taylorswift.com#lyrics-80301 
+
+ start -> https://www.taylorswift.com#lyrics-80311 
+
+ start -> https://www.taylorswift.com#lyrics-80321 
+
+ start -> https://www.taylorswift.com#lyrics-80331 
+
+ start -> https://www.taylorswift.com#lyrics-80341 
+
+ start -> https://www.taylorswift.com#lyrics-80351 
+
+ start -> https://www.taylorswift.com#lyrics-80361 
+
+ start -> https://www.taylorswift.com#lyrics-80371 
+
+ start -> https://www.taylorswift.com#lyrics-80381 
+
+ start -> https://www.taylorswift.com#lyrics-80391 
+
+ start -> https://www.taylorswift.com#lyrics-80401 
+
+ start -> https://www.taylorswift.com#lyrics-121963 
+
+ start -> https://www.taylorswift.com#lyrics-121973 
+
+ start -> https://www.taylorswift.com#lyrics-121983 
+
+ start -> https://www.taylorswift.com#lyrics-121993 
+
+ start -> https://www.taylorswift.com#lyrics-122003 
+
+ start -> https://www.taylorswift.com#lyrics-122013 
+
+ start -> https://www.taylorswift.com#lyrics-30552 
+
+ start -> https://www.taylorswift.com#lyrics-30562 
+
+ start -> https://www.taylorswift.com#lyrics-30572 
+
+ start -> https://www.taylorswift.com#lyrics-30582 
+
+ start -> https://www.taylorswift.com#lyrics-30592 
+
+ start -> https://www.taylorswift.com#lyrics-30602 
+
+ start -> https://www.taylorswift.com#lyrics-30612 
+
+ start -> https://www.taylorswift.com#lyrics-30622 
+
+ start -> https://www.taylorswift.com#lyrics-30632 
+
+ start -> https://www.taylorswift.com#lyrics-30642 
+
+ start -> https://www.taylorswift.com#lyrics-31522 
+
+ start -> https://www.taylorswift.com#lyrics-31532 
+
+ start -> https://www.taylorswift.com#lyrics-31542 
+
+ start -> https://www.taylorswift.com#lyrics-31552 
+
+ start -> https://www.taylorswift.com#lyrics-31562 
+
+ start -> https://www.taylorswift.com#lyrics-31572 
+
+ start -> https://www.taylorswift.com#lyrics-31582 
+
+ start -> https://www.taylorswift.com#lyrics-31592 
+
+ start -> https://www.taylorswift.com#lyrics-31602 
+
+ start -> https://www.taylorswift.com#lyrics-31612 
+
+ start -> https://www.taylorswift.com#lyrics-30352 
+
+ start -> https://www.taylorswift.com#lyrics-30362 
+
+ start -> https://www.taylorswift.com#lyrics-30372 
+
+ start -> https://www.taylorswift.com#lyrics-30382 
+
+ start -> https://www.taylorswift.com#lyrics-30392 
+
+ start -> https://www.taylorswift.com#lyrics-30402 
+
+ start -> https://www.taylorswift.com#lyrics-30412 
+
+ start -> https://www.taylorswift.com#lyrics-30422 
+
+ start -> https://www.taylorswift.com#lyrics-30432 
+
+ start -> https://www.taylorswift.com#lyrics-30442 
+
+ start -> https://www.taylorswift.com#lyrics-31052 
+
+ start -> https://www.taylorswift.com#lyrics-31062 
+
+ start -> https://www.taylorswift.com#lyrics-31072 
+
+ start -> https://www.taylorswift.com#lyrics-31082 
+
+ start -> https://www.taylorswift.com#lyrics-31092 
+
+ start -> https://www.taylorswift.com#lyrics-31102 
+
+ start -> https://www.taylorswift.com#lyrics-31112 
+
+ start -> https://www.taylorswift.com#lyrics-31122 
+
+ start -> https://www.taylorswift.com#lyrics-31132 
+
+ start -> https://www.taylorswift.com#lyrics-30202 
+
+ start -> https://www.taylorswift.com#lyrics-30212 
+
+ start -> https://www.taylorswift.com#lyrics-30222 
+
+ start -> https://www.taylorswift.com#lyrics-30232 
+
+ start -> https://www.taylorswift.com#lyrics-30242 
+
+ start -> https://www.taylorswift.com#lyrics-30252 
+
+ start -> https://www.taylorswift.com#lyrics-30262 
+
+ start -> https://www.taylorswift.com#lyrics-30272 
+
+ start -> https://www.taylorswift.com#lyrics-30282 
+
+ start -> https://www.taylorswift.com#lyrics-30292 
+
+ start -> https://www.taylorswift.com#lyrics-30302 
+
+ start -> https://www.taylorswift.com#lyrics-30312 
+
+ start -> https://www.taylorswift.com#lyrics-30322 
+
+ start -> https://www.taylorswift.com#lyrics-30332 
+
+ start -> https://www.taylorswift.com?h=2018-11-19+07%3A00%3A00&p=2&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-11-13+12%3A00%3A00&p=4&d=next 
+
+ start -> https://www.taylorswift.com/news/297850 
+
+ start -> https://www.taylorswift.com/news/297836 
+
+ start -> https://www.taylorswift.com/news/297746 
+
+ start -> https://www.taylorswift.com/news/297725 
+
+ start -> https://www.taylorswift.com/news/297700 
+
+ start -> https://www.taylorswift.com/news/297695 
+
+ start -> https://www.taylorswift.com/news/297663 
+
+ start -> https://www.taylorswift.com/news/297603 
+
+ start -> https://www.taylorswift.com/news/297588 
+
+ start -> https://www.taylorswift.com/news/297579 
+
+ start -> https://www.taylorswift.com/news?h=2018-10-02+05%3A00%3A00&p=1&d=prev 
+
+ start -> https://www.taylorswift.com/news?h=2018-07-16+13%3A00%3A00&p=3&d=next 
+
+ start -> https://www.taylorswift.com/events/440882 
+
+ start -> https://www.taylorswift.com/events/440881 
+
+ start -> https://www.taylorswift.com/events/438144 
+
+ start -> https://www.taylorswift.com/events/438143 
+
+ start -> https://www.taylorswift.com/events/438142 
+
+ start -> https://www.taylorswift.com/events/438141 
+
+ start -> https://www.taylorswift.com/events/437844 
+
+ start -> https://www.taylorswift.com/events/438487 
+
+ start -> https://www.taylorswift.com/events/437843 
+
+ start -> https://www.taylorswift.com/events/437842 
+
+ start -> https://www.taylorswift.com/events/437841 
+
+ start -> https://www.taylorswift.com/events/437840 
+
+ start -> https://www.taylorswift.com/events/437839 
+
+ start -> https://www.taylorswift.com/events/437838 
+
+ start -> https://www.taylorswift.com/events/438486 
+
+ start -> https://www.taylorswift.com/events/437837 
+
+ start -> https://www.taylorswift.com/events/437836 
+
+ start -> https://www.taylorswift.com/events/437835 
+
+ start -> https://www.taylorswift.com/events/437834 
+
+ start -> https://www.taylorswift.com/events/437833 
+
+ start -> https://www.taylorswift.com/events/438054 
+
+ start -> https://www.taylorswift.com/events/437832 
+
+ start -> https://www.taylorswift.com/events/437831 
+
+ start -> https://www.taylorswift.com/events/438053 
+
+ start -> https://www.taylorswift.com/events/437830 
+
+ start -> https://www.taylorswift.com/events/438052 
+
+ start -> https://www.taylorswift.com/events/438485 
+
+ start -> https://www.taylorswift.com/events/438484 
+
+ start -> https://www.taylorswift.com/events/437829 
+
+ start -> https://www.taylorswift.com/events/438051 
+
+ start -> https://www.taylorswift.com/events/437828 
+
+ start -> https://www.taylorswift.com/events/437827 
+
+ start -> https://www.taylorswift.com/events/438483 
+
+ start -> https://www.taylorswift.com/events/438482 
+
+ start -> https://www.taylorswift.com/events/437826 
+
+ start -> https://www.taylorswift.com/events/437825 
+
+ start -> https://www.taylorswift.com/events/437824 
+
+ start -> https://www.taylorswift.com/events/438132 
+
+ start -> https://www.taylorswift.com/events/438006 
+
+ start -> https://www.taylorswift.com/events/438131 
+
+ start -> https://www.taylorswift.com/events/438005 
+
+ start -> https://www.taylorswift.com/events/438130 
+
+ start -> https://www.taylorswift.com/events/438004 
+
+ start -> https://www.taylorswift.com/events/437823 
+
+ start -> https://www.taylorswift.com/events/438050 
+
+ start -> https://www.taylorswift.com/events/437822 
+
+ start -> https://www.taylorswift.com/events/437821 
+
+ start -> https://www.taylorswift.com/events/437820 
+
+ start -> https://www.taylorswift.com/events/438049 
+
+ start -> https://www.taylorswift.com/events/437819 
+
+ start -> https://www.taylorswift.com/events/438481 
+
+ start -> https://www.taylorswift.com/events/437818 
+
+ start -> https://www.taylorswift.com/news/295522 
+
+ start -> https://www.taylorswift.com/news/295491 
+
+ start -> https://www.taylorswift.com/news/295490 
+
+ start -> https://www.taylorswift.com?h=2017-09-03+04%3A00%3A00&p=30&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-08-26+09%3A00%3A00&p=32&d=next 
+
+ start -> https://www.taylorswift.com/news/295633 
+
+ start -> https://www.taylorswift.com/news/295537 
+
+ start -> https://www.taylorswift.com/news/295524 
+
+ start -> https://www.taylorswift.com/news/295481 
+
+ start -> https://www.taylorswift.com/news?h=2017-09-27+08%3A00%3A00&p=9&d=prev 
+
+ start -> https://www.taylorswift.com/api/rss/events/ 
+
+ start -> https://www.taylorswift.com?h=2018-10-09+20%3A00%3A00&p=3&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-09-27+08%3A00%3A00&p=5&d=next 
+
+ start -> https://www.taylorswift.com/news/297548 
+
+ start -> https://www.taylorswift.com/news/297545 
+
+ start -> https://www.taylorswift.com/news/297510 
+
+ start -> https://www.taylorswift.com/news/297495 
+
+ start -> https://www.taylorswift.com/news/297473 
+
+ start -> https://www.taylorswift.com/news/297441 
+
+ start -> https://www.taylorswift.com/news/297414 
+
+ start -> https://www.taylorswift.com/news/297389 
+
+ start -> https://www.taylorswift.com/news/297377 
+
+ start -> https://www.taylorswift.com/news/297358 
+
+ start -> https://www.taylorswift.com/news?h=2018-07-10+06%3A00%3A00&p=2&d=prev 
+
+ start -> https://www.taylorswift.com/news?h=2018-05-01+16%3A00%3A00&p=4&d=next 
+
+ start -> https://www.taylorswift.com/news/295837 
+
+ start -> https://www.taylorswift.com/news/295815 
+
+ start -> https://www.taylorswift.com/news/295814 
+
+ start -> https://www.taylorswift.com/news/295807 
+
+ start -> https://www.taylorswift.com/news/295798 
+
+ start -> https://www.taylorswift.com/news/295792 
+
+ start -> https://www.taylorswift.com/news/295765 
+
+ start -> https://www.taylorswift.com/news/295756 
+
+ start -> https://www.taylorswift.com/news/295697 
+
+ start -> https://www.taylorswift.com/news/295657 
+
+ start -> https://www.taylorswift.com/news?h=2017-11-08+11%3A00%3A00&p=8&d=prev 
+
+ start -> https://www.taylorswift.com/news?h=2017-09-29+09%3A00%3A00&p=10&d=next 
+
+ start -> https://www.taylorswift.com/news/297346 
+
+ start -> https://www.taylorswift.com/news/297323 
+
+ start -> https://www.taylorswift.com/news/297305 
+
+ start -> https://www.taylorswift.com/news/297294 
+
+ start -> https://www.taylorswift.com/news/296554 
+
+ start -> https://www.taylorswift.com/news/296222 
+
+ start -> https://www.taylorswift.com/news/296199 
+
+ start -> https://www.taylorswift.com/news/296196 
+
+ start -> https://www.taylorswift.com/news/296195 
+
+ start -> https://www.taylorswift.com/news/296194 
+
+ start -> https://www.taylorswift.com/news?h=2018-04-27+13%3A00%3A00&p=3&d=prev 
+
+ start -> https://www.taylorswift.com/news?h=2018-03-11+18%3A00%3A00&p=5&d=next 
+
+ start -> https://www.taylorswift.com?h=2018-09-09+17%3A00%3A00&p=4&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-08-28+13%3A00%3A00&p=6&d=next 
+
+ start -> https://www.taylorswift.com/news/295923 
+
+ start -> https://www.taylorswift.com/news/295922 
+
+ start -> https://www.taylorswift.com/news/295911 
+
+ start -> https://www.taylorswift.com/news/295909 
+
+ start -> https://www.taylorswift.com/news/295900 
+
+ start -> https://www.taylorswift.com/news/295878 
+
+ start -> https://www.taylorswift.com/news/295873 
+
+ start -> https://www.taylorswift.com/news/295865 
+
+ start -> https://www.taylorswift.com/news/295863 
+
+ start -> https://www.taylorswift.com/news/295849 
+
+ start -> https://www.taylorswift.com/news?h=2017-12-01+04%3A00%3A00&p=7&d=prev 
+
+ start -> https://www.taylorswift.com/news?h=2017-11-09+20%3A00%3A00&p=9&d=next 
+
+ start -> https://www.taylorswift.com/news/296184 
+
+ start -> https://www.taylorswift.com/news/296172 
+
+ start -> https://www.taylorswift.com/news/296166 
+
+ start -> https://www.taylorswift.com/news/296165 
+
+ start -> https://www.taylorswift.com/news/296093 
+
+ start -> https://www.taylorswift.com/news/296088 
+
+ start -> https://www.taylorswift.com/news/296070 
+
+ start -> https://www.taylorswift.com/news/296037 
+
+ start -> https://www.taylorswift.com/news/296035 
+
+ start -> https://www.taylorswift.com/news/296020 
+
+ start -> https://www.taylorswift.com/news?h=2018-03-07+12%3A00%3A00&p=4&d=prev 
+
+ start -> https://www.taylorswift.com/news?h=2018-01-05+07%3A00%3A00&p=6&d=next 
+
+ start -> https://www.taylorswift.com?h=2018-08-24+10%3A00%3A00&p=5&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-07-28+18%3A00%3A00&p=7&d=next 
+
+ start -> https://www.taylorswift.com?h=2018-07-21+11%3A00%3A00&p=6&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-07-10+06%3A00%3A00&p=8&d=next 
+
+ start -> https://www.taylorswift.com?h=2018-07-09+13%3A00%3A00&p=7&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-06-13+14%3A00%3A00&p=9&d=next 
+
+ start -> https://www.taylorswift.com/news/295976 
+
+ start -> https://www.taylorswift.com/news/295948 
+
+ start -> https://www.taylorswift.com/news/295939 
+
+ start -> https://www.taylorswift.com/news/295936 
+
+ start -> https://www.taylorswift.com/news/295935 
+
+ start -> https://www.taylorswift.com/news/295931 
+
+ start -> https://www.taylorswift.com/news/295929 
+
+ start -> https://www.taylorswift.com/news/295926 
+
+ start -> https://www.taylorswift.com/news/295927 
+
+ start -> https://www.taylorswift.com/news/295925 
+
+ start -> https://www.taylorswift.com/news?h=2017-12-13+07%3A00%3A00&p=6&d=prev 
+
+ start -> https://www.taylorswift.com/news?h=2017-12-01+08%3A00%3A00&p=8&d=next 
+
+ start -> https://www.taylorswift.com/news/296019 
+
+ start -> https://www.taylorswift.com/news/296016 
+
+ start -> https://www.taylorswift.com/news/296007 
+
+ start -> https://www.taylorswift.com/news/295982 
+
+ start -> https://www.taylorswift.com/news?h=2018-01-03+12%3A00%3A00&p=5&d=prev 
+
+ start -> https://www.taylorswift.com/news?h=2017-12-05+08%3A00%3A00&p=7&d=next 
+
+ start -> https://www.taylorswift.com?h=2018-06-09+18%3A00%3A00&p=8&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-05-20+18%3A00%3A00&p=10&d=next 
+
+ start -> https://www.taylorswift.com/news?h=2018-02-09+08%3A00%3A00&p=5&d=prev 
+
+ start -> https://www.taylorswift.com/news?h=2017-12-15+05%3A00%3A00&p=7&d=next 
+
+ start -> https://www.taylorswift.com/news?h=2017-12-03+11%3A00%3A00&p=6&d=prev 
+
+ start -> https://www.taylorswift.com/news?h=2017-11-14+20%3A00%3A00&p=8&d=next 
+
+ start -> https://www.taylorswift.com?h=2018-05-15+07%3A00%3A00&p=9&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-05-01+16%3A00%3A00&p=11&d=next 
+
+ start -> https://www.taylorswift.com/news?h=2018-03-29+20%3A00%3A00&p=4&d=prev 
+
+ start -> https://www.taylorswift.com/news?h=2018-03-02+08%3A00%3A00&p=6&d=next 
+
+ start -> https://www.taylorswift.com/news?h=2017-11-14+14%3A00%3A00&p=7&d=prev 
+
+ start -> https://www.taylorswift.com/news?h=2017-10-26+20%3A00%3A00&p=9&d=next 
+
+ start -> https://www.taylorswift.com?h=2018-04-27+13%3A00%3A00&p=10&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-04-17+14%3A00%3A00&p=12&d=next 
+
+ start -> https://www.taylorswift.com/news?h=2018-06-09+18%3A00%3A00&p=3&d=prev 
+
+ start -> https://www.taylorswift.com/news?h=2018-04-12+21%3A00%3A00&p=5&d=next 
+
+ start -> https://www.taylorswift.com/news?h=2017-10-19+18%3A00%3A00&p=8&d=prev 
+
+ start -> https://www.taylorswift.com/news?h=2017-08-26+09%3A00%3A00&p=10&d=next 
+
+ start -> https://www.taylorswift.com/news?h=2018-08-28+13%3A00%3A00&p=2&d=prev 
+
+ start -> https://www.taylorswift.com/news?h=2018-06-13+14%3A00%3A00&p=4&d=next 
+
+ start -> https://www.taylorswift.com?h=2018-04-12+21%3A00%3A00&p=11&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-03-22+17%3A00%3A00&p=13&d=next 
+
+ start -> https://www.taylorswift.com/news?h=2017-08-24+21%3A00%3A00&p=9&d=prev 
+
+ start -> https://www.taylorswift.com/news?h=2018-12-05+08%3A00%3A00&p=1&d=prev 
+
+ start -> https://www.taylorswift.com/news?h=2018-09-05+10%3A00%3A00&p=3&d=next 
+
+ start -> https://www.taylorswift.com?h=2018-03-13+15%3A00%3A00&p=12&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-03-12+11%3A00%3A00&p=14&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-09-27+08%3A00%3A00&p=29&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-09-05+10%3A00%3A00&p=31&d=next 
+
+ start -> https://www.taylorswift.com/news?h=2018-12-06+08%3A00%3A00&p=2&d=next 
+
+ start -> https://www.taylorswift.com?h=2018-03-11+18%3A00%3A00&p=13&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-03-05+04%3A00%3A00&p=15&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-10-19+06%3A00%3A00&p=28&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-09-29+09%3A00%3A00&p=30&d=next 
+
+ start -> https://www.taylorswift.com?h=2018-03-02+08%3A00%3A00&p=14&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-02-09+08%3A00%3A00&p=16&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-10-30+08%3A00%3A00&p=27&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-10-19+18%3A00%3A00&p=29&d=next 
+
+ start -> https://www.taylorswift.com?h=2018-02-06+15%3A00%3A00&p=15&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-01-11+20%3A00%3A00&p=17&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-11-03+05%3A00%3A00&p=26&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-11-01+08%3A00%3A00&p=28&d=next 
+
+ start -> https://www.taylorswift.com?h=2018-01-11+05%3A00%3A00&p=16&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-01-03+12%3A00%3A00&p=18&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-11-12+13%3A00%3A00&p=25&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-11-08+11%3A00%3A00&p=27&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-11-14+20%3A00%3A00&p=24&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-11-13+06%3A00%3A00&p=26&d=next 
+
+ start -> https://www.taylorswift.com?h=2018-01-03+05%3A00%3A00&p=17&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-12-15+05%3A00%3A00&p=19&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-11-28+09%3A00%3A00&p=23&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-11-24+00%3A00%3A00&p=25&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-12-13+07%3A00%3A00&p=18&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-12-06+17%3A00%3A00&p=20&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-12-06+05%3A00%3A00&p=19&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-12-05+08%3A00%3A00&p=21&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-12-01+08%3A00%3A00&p=22&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-12-01+01%3A00%3A00&p=24&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-12-05+08%3A00%3A00&p=21&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-12-01+09%3A00%3A00&p=23&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-12-03+11%3A00%3A00&p=20&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-12-01+08%3A00%3A00&p=22&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-12-01+04%3A00%3A00&p=21&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-11-28+09%3A00%3A00&p=23&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-12-06+17%3A00%3A00&p=20&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-12-06+04%3A00%3A00&p=22&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-12-01+04%3A00%3A00&p=24&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-11-28+08%3A00%3A00&p=22&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-11-14+20%3A00%3A00&p=24&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-12-15+05%3A00%3A00&p=19&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-12-08+00%3A00%3A00&p=21&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-12-01+09%3A00%3A00&p=20&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-12-01+01%3A00%3A00&p=23&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-11-28+08%3A00%3A00&p=25&d=next 
+
+ start -> https://www.taylorswift.com?h=2018-01-03+12%3A00%3A00&p=18&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-12-23+14%3A00%3A00&p=20&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-11-14+14%3A00%3A00&p=23&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-11-12+13%3A00%3A00&p=25&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-11-24+00%3A00%3A00&p=24&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-11-14+14%3A00%3A00&p=26&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-12-06+04%3A00%3A00&p=19&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-12-03+11%3A00%3A00&p=21&d=next 
+
+ start -> https://www.taylorswift.com?h=2018-01-11+20%3A00%3A00&p=17&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-01-05+07%3A00%3A00&p=19&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-11-09+20%3A00%3A00&p=24&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-11-03+05%3A00%3A00&p=26&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-11-13+06%3A00%3A00&p=25&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-11-09+20%3A00%3A00&p=27&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-12-08+00%3A00%3A00&p=18&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-12-06+05%3A00%3A00&p=20&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-11-02+20%3A00%3A00&p=25&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-10-30+08%3A00%3A00&p=27&d=next 
+
+ start -> https://www.taylorswift.com?h=2018-02-09+08%3A00%3A00&p=16&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-01-31+07%3A00%3A00&p=18&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-11-08+11%3A00%3A00&p=26&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-11-02+20%3A00%3A00&p=28&d=next 
+
+ start -> https://www.taylorswift.com?h=2018-03-05+04%3A00%3A00&p=15&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-03-02+08%3A00%3A00&p=17&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-12-23+14%3A00%3A00&p=17&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-12-13+07%3A00%3A00&p=19&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-10-26+20%3A00%3A00&p=26&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-10-19+06%3A00%3A00&p=28&d=next 
+
+ start -> https://www.taylorswift.com?h=2018-03-12+11%3A00%3A00&p=14&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-03-07+12%3A00%3A00&p=16&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-11-01+08%3A00%3A00&p=27&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-10-26+20%3A00%3A00&p=29&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-10-05+15%3A00%3A00&p=27&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-09-27+08%3A00%3A00&p=29&d=next 
+
+ start -> https://www.taylorswift.com?h=2018-01-05+07%3A00%3A00&p=16&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-01-03+05%3A00%3A00&p=18&d=next 
+
+ start -> https://www.taylorswift.com?h=2018-03-29+20%3A00%3A00&p=13&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-03-13+15%3A00%3A00&p=15&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-09-07+11%3A00%3A00&p=28&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-09-03+04%3A00%3A00&p=30&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-10-19+18%3A00%3A00&p=28&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-10-05+15%3A00%3A00&p=30&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-09-29+09%3A00%3A00&p=29&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-09-07+11%3A00%3A00&p=31&d=next 
+
+ start -> https://www.taylorswift.com?h=2018-03-11+18%3A00%3A00&p=16&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-08-27+19%3A00%3A00&p=29&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-08-24+21%3A00%3A00&p=31&d=next 
+
+ start -> https://www.taylorswift.com?h=2018-01-31+07%3A00%3A00&p=15&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-01-11+05%3A00%3A00&p=17&d=next 
+
+ start -> https://www.taylorswift.com?h=2018-04-20+11%3A00%3A00&p=12&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-04-12+21%3A00%3A00&p=14&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-09-05+10%3A00%3A00&p=30&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-08-27+19%3A00%3A00&p=32&d=next 
+
+ start -> https://www.taylorswift.com?h=2018-03-07+12%3A00%3A00&p=15&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-02-06+15%3A00%3A00&p=16&d=next 
+
+ start -> https://www.taylorswift.com?h=2018-05-08+17%3A00%3A00&p=11&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-04-27+13%3A00%3A00&p=13&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-08-24+01%3A00%3A00&p=30&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-08-24+01%3A00%3A00&p=32&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-08-26+09%3A00%3A00&p=31&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-08-24+21%3A00%3A00&p=29&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-06-01+08%3A00%3A00&p=10&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-05-15+07%3A00%3A00&p=12&d=next 
+
+ start -> https://www.taylorswift.com?p=31&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-09-03+04%3A00%3A00&p=28&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-08-26+09%3A00%3A00&p=30&d=next 
+
+ start -> https://www.taylorswift.com?h=2018-06-18+15%3A00%3A00&p=9&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-06-09+18%3A00%3A00&p=11&d=next 
+
+ start -> https://www.taylorswift.com?p=30&d=prev&h=2017-08-24+21%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=32&d=next&h=2017-08-24+01%3A00%3A00 
+
+ start -> https://www.taylorswift.com?h=2017-09-27+08%3A00%3A00&p=27&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-09-05+10%3A00%3A00&p=29&d=next 
+
+ start -> https://www.taylorswift.com?p=29&d=prev&h=2017-09-03+04%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=31&d=next&h=2017-08-26+09%3A00%3A00 
+
+ start -> https://www.taylorswift.com?h=2018-07-16+13%3A00%3A00&p=8&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-07-09+13%3A00%3A00&p=10&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-10-19+06%3A00%3A00&p=26&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-09-29+09%3A00%3A00&p=28&d=next 
+
+ start -> https://www.taylorswift.com?p=28&d=prev&h=2017-09-27+08%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=30&d=next&h=2017-09-05+10%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=32&d=next&h=2017-08-24+21%3A00%3A00 
+
+ start -> https://www.taylorswift.com?h=2018-08-10+13%3A00%3A00&p=7&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-07-21+11%3A00%3A00&p=9&d=next 
+
+ start -> https://www.taylorswift.com?p=27&d=prev&h=2017-10-19+06%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=29&d=next&h=2017-09-29+09%3A00%3A00 
+
+ start -> https://www.taylorswift.com?h=2017-10-30+08%3A00%3A00&p=25&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-10-19+18%3A00%3A00&p=27&d=next 
+
+ start -> https://www.taylorswift.com?p=31&d=prev&h=2017-08-24+01%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=26&d=prev&h=2017-10-30+08%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=28&d=next&h=2017-10-19+18%3A00%3A00 
+
+ start -> https://www.taylorswift.com?h=2017-11-03+05%3A00%3A00&p=24&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-11-01+08%3A00%3A00&p=26&d=next 
+
+ start -> https://www.taylorswift.com?h=2018-09-05+10%3A00%3A00&p=6&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-08-24+10%3A00%3A00&p=8&d=next 
+
+ start -> https://www.taylorswift.com?p=25&d=prev&h=2017-11-03+05%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=27&d=next&h=2017-11-01+08%3A00%3A00 
+
+ start -> https://www.taylorswift.com?h=2018-10-02+05%3A00%3A00&p=5&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-09-09+17%3A00%3A00&p=7&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-11-12+13%3A00%3A00&p=23&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-11-08+11%3A00%3A00&p=25&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-11-14+20%3A00%3A00&p=22&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-11-13+06%3A00%3A00&p=24&d=next 
+
+ start -> https://www.taylorswift.com?h=2018-11-14+08%3A00%3A00&p=4&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-10-09+20%3A00%3A00&p=6&d=next 
+
+ start -> https://www.taylorswift.com?p=24&d=prev&h=2017-11-12+13%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=26&d=next&h=2017-11-08+11%3A00%3A00 
+
+ start -> https://www.taylorswift.com?h=2018-12-05+08%3A00%3A00&p=3&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-11-19+07%3A00%3A00&p=5&d=next 
+
+ start -> https://www.taylorswift.com?p=23&d=prev&h=2017-11-14+20%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=25&d=next&h=2017-11-13+06%3A00%3A00 
+
+ start -> https://www.taylorswift.com?h=2017-11-28+09%3A00%3A00&p=21&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-11-24+00%3A00%3A00&p=23&d=next 
+
+ start -> https://www.taylorswift.com?h=2018-12-13+05%3A00%3A00&p=2&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-12-06+08%3A00%3A00&p=4&d=next 
+
+ start -> https://www.taylorswift.com?p=22&d=prev&h=2017-11-28+09%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=24&d=next&h=2017-11-24+00%3A00%3A00 
+
+ start -> https://www.taylorswift.com?h=2017-12-01+08%3A00%3A00&p=20&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-12-01+01%3A00%3A00&p=22&d=next 
+
+ start -> https://www.taylorswift.com?h=2018-12-31+00%3A00%3A00&p=1&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-12-31+00%3A00%3A00&p=3&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-12-05+08%3A00%3A00&p=19&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-12-01+09%3A00%3A00&p=21&d=next 
+
+ start -> https://www.taylorswift.com?p=21&d=prev&h=2017-12-01+08%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=23&d=next&h=2017-12-01+01%3A00%3A00 
+
+ start -> https://www.taylorswift.com?h=2017-12-01+04%3A00%3A00&p=22&d=next 
+
+ start -> https://www.taylorswift.com?p=2&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-12-06+17%3A00%3A00&p=18&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-12-06+04%3A00%3A00&p=20&d=next 
+
+ start -> https://www.taylorswift.com?p=20&d=prev&h=2017-12-05+08%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=22&d=next&h=2017-12-01+09%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=1&d=prev&h=2018-12-31+00%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=3&d=next&h=2018-12-07+10%3A00%3A00 
+
+ start -> https://www.taylorswift.com?h=2017-12-01+01%3A00%3A00&p=21&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-11-28+08%3A00%3A00&p=23&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-12-15+05%3A00%3A00&p=17&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-12-08+00%3A00%3A00&p=19&d=next 
+
+ start -> https://www.taylorswift.com?p=19&d=prev&h=2017-12-06+17%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=21&d=next&h=2017-12-06+04%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=23&d=next&h=2017-12-01+04%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=2&d=prev&h=2018-12-06+08%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=4&d=next&h=2018-11-30+14%3A00%3A00 
+
+ start -> https://www.taylorswift.com?h=2018-01-03+12%3A00%3A00&p=16&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-12-23+14%3A00%3A00&p=18&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-11-24+00%3A00%3A00&p=22&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-11-14+14%3A00%3A00&p=24&d=next 
+
+ start -> https://www.taylorswift.com?p=18&d=prev&h=2017-12-15+05%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=20&d=next&h=2017-12-08+00%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=22&d=prev&h=2017-12-01+01%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=24&d=next&h=2017-11-28+08%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=3&d=prev&h=2018-11-19+07%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=5&d=next&h=2018-11-13+12%3A00%3A00 
+
+ start -> https://www.taylorswift.com?h=2018-01-11+20%3A00%3A00&p=15&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-01-05+07%3A00%3A00&p=17&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-11-13+06%3A00%3A00&p=23&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-11-09+20%3A00%3A00&p=25&d=next 
+
+ start -> https://www.taylorswift.com?p=17&d=prev&h=2018-01-03+12%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=19&d=next&h=2017-12-23+14%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=23&d=prev&h=2017-11-24+00%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=25&d=next&h=2017-11-14+14%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=4&d=prev&h=2018-10-09+20%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=6&d=next&h=2018-09-27+08%3A00%3A00 
+
+ start -> https://www.taylorswift.com?h=2018-02-09+08%3A00%3A00&p=14&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-01-31+07%3A00%3A00&p=16&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-11-08+11%3A00%3A00&p=24&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-11-02+20%3A00%3A00&p=26&d=next 
+
+ start -> https://www.taylorswift.com?p=16&d=prev&h=2018-01-11+20%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=18&d=next&h=2018-01-05+07%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=24&d=prev&h=2017-11-13+06%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=26&d=next&h=2017-11-09+20%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=5&d=prev&h=2018-09-09+17%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=7&d=next&h=2018-08-28+13%3A00%3A00 
+
+ start -> https://www.taylorswift.com?h=2018-03-05+04%3A00%3A00&p=13&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-03-02+08%3A00%3A00&p=15&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-11-01+08%3A00%3A00&p=25&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-10-26+20%3A00%3A00&p=27&d=next 
+
+ start -> https://www.taylorswift.com?p=15&d=prev&h=2018-02-09+08%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=17&d=next&h=2018-01-31+07%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=25&d=prev&h=2017-11-08+11%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=27&d=next&h=2017-11-02+20%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=6&d=prev&h=2018-08-24+10%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=8&d=next&h=2018-07-28+18%3A00%3A00 
+
+ start -> https://www.taylorswift.com?h=2018-03-12+11%3A00%3A00&p=12&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-03-07+12%3A00%3A00&p=14&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-10-19+18%3A00%3A00&p=26&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-10-05+15%3A00%3A00&p=28&d=next 
+
+ start -> https://www.taylorswift.com?p=14&d=prev&h=2018-03-05+04%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=16&d=next&h=2018-03-02+08%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=26&d=prev&h=2017-11-01+08%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=28&d=next&h=2017-10-26+20%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=7&d=prev&h=2018-07-21+11%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=9&d=next&h=2018-07-10+06%3A00%3A00 
+
+ start -> https://www.taylorswift.com?h=2017-09-29+09%3A00%3A00&p=27&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-09-07+11%3A00%3A00&p=29&d=next 
+
+ start -> https://www.taylorswift.com?h=2018-03-29+20%3A00%3A00&p=11&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-03-13+15%3A00%3A00&p=13&d=next 
+
+ start -> https://www.taylorswift.com?p=13&d=prev&h=2018-03-12+11%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=15&d=next&h=2018-03-07+12%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=27&d=prev&h=2017-10-19+18%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=29&d=next&h=2017-10-05+15%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=8&d=prev&h=2018-07-09+13%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=10&d=next&h=2018-06-13+14%3A00%3A00 
+
+ start -> https://www.taylorswift.com?h=2017-09-05+10%3A00%3A00&p=28&d=prev 
+
+ start -> https://www.taylorswift.com?h=2017-08-27+19%3A00%3A00&p=30&d=next 
+
+ start -> https://www.taylorswift.com?h=2018-03-11+18%3A00%3A00&p=14&d=next 
+
+ start -> https://www.taylorswift.com?h=2018-04-20+11%3A00%3A00&p=10&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-04-12+21%3A00%3A00&p=12&d=next 
+
+ start -> https://www.taylorswift.com?p=12&d=prev&h=2018-03-29+20%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=14&d=next&h=2018-03-13+15%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=28&d=prev&h=2017-09-29+09%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=30&d=next&h=2017-09-07+11%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=9&d=prev&h=2018-06-09+18%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=11&d=next&h=2018-05-20+18%3A00%3A00 
+
+ start -> https://www.taylorswift.com?h=2018-05-08+17%3A00%3A00&p=9&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-04-27+13%3A00%3A00&p=11&d=next 
+
+ start -> https://www.taylorswift.com?h=2017-08-26+09%3A00%3A00&p=29&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-03-07+12%3A00%3A00&p=13&d=prev 
+
+ start -> https://www.taylorswift.com?p=15&d=next&h=2018-03-11+18%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=11&d=prev&h=2018-04-20+11%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=13&d=next&h=2018-04-12+21%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=29&d=prev&h=2017-09-05+10%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=31&d=next&h=2017-08-27+19%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=10&d=prev&h=2018-05-15+07%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=12&d=next&h=2018-05-01+16%3A00%3A00 
+
+ start -> https://www.taylorswift.com?h=2018-06-01+08%3A00%3A00&p=8&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-05-15+07%3A00%3A00&p=10&d=next 
+
+ start -> https://www.taylorswift.com?p=14&d=prev&h=2018-03-07+12%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=10&d=prev&h=2018-05-08+17%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=12&d=next&h=2018-04-27+13%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=30&d=prev&h=2017-08-26+09%3A00%3A00 
+
+ start -> https://www.taylorswift.com?h=2018-06-18+15%3A00%3A00&p=7&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-06-09+18%3A00%3A00&p=9&d=next 
+
+ start -> https://www.taylorswift.com?p=11&d=prev&h=2018-04-27+13%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=13&d=next&h=2018-04-17+14%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=9&d=prev&h=2018-06-01+08%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=11&d=next&h=2018-05-15+07%3A00%3A00 
+
+ start -> https://www.taylorswift.com?h=2018-07-16+13%3A00%3A00&p=6&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-07-09+13%3A00%3A00&p=8&d=next 
+
+ start -> https://www.taylorswift.com?p=12&d=prev&h=2018-04-12+21%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=14&d=next&h=2018-03-22+17%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=8&d=prev&h=2018-06-18+15%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=10&d=next&h=2018-06-09+18%3A00%3A00 
+
+ start -> https://www.taylorswift.com?h=2018-08-10+13%3A00%3A00&p=5&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-07-21+11%3A00%3A00&p=7&d=next 
+
+ start -> https://www.taylorswift.com?p=13&d=prev&h=2018-03-13+15%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=15&d=next&h=2018-03-12+11%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=7&d=prev&h=2018-07-16+13%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=9&d=next&h=2018-07-09+13%3A00%3A00 
+
+ start -> https://www.taylorswift.com?h=2018-09-05+10%3A00%3A00&p=4&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-08-24+10%3A00%3A00&p=6&d=next 
+
+ start -> https://www.taylorswift.com?p=14&d=prev&h=2018-03-11+18%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=16&d=next&h=2018-03-05+04%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=6&d=prev&h=2018-08-10+13%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=8&d=next&h=2018-07-21+11%3A00%3A00 
+
+ start -> https://www.taylorswift.com?h=2018-10-02+05%3A00%3A00&p=3&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-09-09+17%3A00%3A00&p=5&d=next 
+
+ start -> https://www.taylorswift.com?p=15&d=prev&h=2018-03-02+08%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=17&d=next&h=2018-02-09+08%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=5&d=prev&h=2018-09-05+10%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=7&d=next&h=2018-08-24+10%3A00%3A00 
+
+ start -> https://www.taylorswift.com?h=2018-11-14+08%3A00%3A00&p=2&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-10-09+20%3A00%3A00&p=4&d=next 
+
+ start -> https://www.taylorswift.com?p=16&d=prev&h=2018-02-06+15%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=18&d=next&h=2018-01-11+20%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=4&d=prev&h=2018-10-02+05%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=6&d=next&h=2018-09-09+17%3A00%3A00 
+
+ start -> https://www.taylorswift.com?h=2018-12-05+08%3A00%3A00&p=1&d=prev 
+
+ start -> https://www.taylorswift.com?h=2018-11-19+07%3A00%3A00&p=3&d=next 
+
+ start -> https://www.taylorswift.com?p=17&d=prev&h=2018-01-11+05%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=19&d=next&h=2018-01-03+12%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=3&d=prev&h=2018-11-14+08%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=5&d=next&h=2018-10-09+20%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=18&d=prev&h=2018-01-03+05%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=20&d=next&h=2017-12-15+05%3A00%3A00 
+
+ start -> https://www.taylorswift.com?h=2018-12-06+08%3A00%3A00&p=2&d=next 
+
+ start -> https://www.taylorswift.com?p=2&d=prev&h=2018-12-05+08%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=4&d=next&h=2018-11-19+07%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=19&d=prev&h=2017-12-13+07%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=21&d=next&h=2017-12-06+17%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=1&d=prev&h=2018-12-13+05%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=3&d=next&h=2018-12-06+08%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=20&d=prev&h=2017-12-06+05%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=22&d=next&h=2017-12-05+08%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=2&d=next&h=2018-12-31+00%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=21&d=prev&h=2017-12-03+11%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=23&d=next&h=2017-12-01+08%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=22&d=prev&h=2017-12-01+04%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=24&d=next&h=2017-11-28+09%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=23&d=prev&h=2017-11-28+08%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=25&d=next&h=2017-11-14+20%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=21&d=prev&h=2017-12-01+09%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=20&d=prev&h=2017-12-06+04%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=22&d=next&h=2017-12-03+11%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=24&d=prev&h=2017-11-14+14%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=26&d=next&h=2017-11-12+13%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=25&d=prev&h=2017-11-09+20%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=27&d=next&h=2017-11-03+05%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=19&d=prev&h=2017-12-08+00%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=21&d=next&h=2017-12-06+05%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=26&d=prev&h=2017-11-02+20%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=28&d=next&h=2017-10-30+08%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=18&d=prev&h=2017-12-23+14%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=20&d=next&h=2017-12-13+07%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=17&d=prev&h=2018-01-05+07%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=19&d=next&h=2018-01-03+05%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=27&d=prev&h=2017-10-26+20%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=29&d=next&h=2017-10-19+06%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=16&d=prev&h=2018-01-31+07%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=18&d=next&h=2018-01-11+05%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=28&d=prev&h=2017-10-05+15%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=30&d=next&h=2017-09-27+08%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=17&d=next&h=2018-02-06+15%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=29&d=prev&h=2017-09-07+11%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=31&d=next&h=2017-09-03+04%3A00%3A00 
+
+ start -> https://www.taylorswift.com?p=30&d=prev&h=2017-08-27+19%3A00%3A00 
+channel closed
+676

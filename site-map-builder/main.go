@@ -7,6 +7,7 @@ import (
 	"net/http"
 	"net/url"
 	"strings"
+	"time"
 
 	"github.com/ayushin78/go_mini_projects/html_link_parser"
 )
@@ -17,12 +18,12 @@ func main() {
 
 	visitedLinks := make(map[string]bool)
 
-	crawl(*rootlink, visitedLinks)
+	crawl2(*rootlink, visitedLinks)
 
 	fmt.Println(len(visitedLinks))
 }
 
-func crawl(rootlink string, visitedLinks map[string]bool) {
+func crawl2(rootlink string, visitedLinks map[string]bool) {
 	rootlink = strings.TrimSpace(rootlink)
 	rootURL, err := url.Parse(rootlink)
 	if err != nil {
@@ -30,37 +31,52 @@ func crawl(rootlink string, visitedLinks map[string]bool) {
 		return
 	}
 
-	links := []htmllinkparser.Link{
-		htmllinkparser.Link{
-			Href: rootURL.String(),
-			Text: "root",
-		},
+	links := make(chan htmllinkparser.Link, 10)
+	links <- htmllinkparser.Link{
+		Href: rootURL.String(),
+		Text: "root",
 	}
 
-	for len(links) > 0 {
-		currentlink := links[0]
-		links = links[1:]
-		currentURL, err := getAbsoluteURL(currentlink.Href, rootURL)
-		_, visited := visitedLinks[currentURL.String()]
-		if err != nil {
-			continue // invalid url
-		}
-
-		if !visited && haveSameHost(currentURL, rootURL) {
-			fmt.Printf("\n start : %v \n", currentURL.String())
-			resp, err := http.Get(currentURL.String())
+	for {
+		select {
+		case currentlink := <-links:
+			currentURL, err := getAbsoluteURL(currentlink.Href, rootURL)
+			_, visited := visitedLinks[currentURL.String()]
 			if err != nil {
-				log.Fatal(err)
+				continue // invalid url
 			}
 
-			defer resp.Body.Close()
-			if resp.StatusCode != 200 {
-				log.Fatalf("status code error : %d %s", resp.StatusCode, resp.Status)
+			if !visited && haveSameHost(currentURL, rootURL) {
+				fmt.Printf("\n start -> %v \n", currentURL.String())
+				go crawlLink(currentURL.String(), links)
+				visitedLinks[currentURL.String()] = true
 			}
 
-			links = htmllinkparser.ExtractLinks(resp.Body, links)
-			visitedLinks[currentURL.String()] = true
+		case <-time.After(2 * time.Second):
+			fmt.Println("channel closed")
+			return
 		}
+	}
+}
+
+func crawlLink(currentURL string, links chan<- htmllinkparser.Link) {
+	resp, err := http.Get(currentURL)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	defer resp.Body.Close()
+	if resp.StatusCode != 200 {
+		log.Printf("status code error : %d %s", resp.StatusCode, resp.Status)
+		return
+	}
+
+	extractedLinks := []htmllinkparser.Link{}
+
+	extractedLinks = htmllinkparser.ExtractLinks(resp.Body, extractedLinks)
+
+	for _, link := range extractedLinks {
+		links <- link
 	}
 }
 
