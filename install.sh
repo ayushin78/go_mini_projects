@@ -53,37 +53,11 @@ fi
 echo -e "\n\n===================================================="
 echo "Unpacking /tmp/tflint.zip ..."
 unzip /tmp/tflint.zip -d /tmp/
-if [[ $os == "windows"* ]]; then
-  echo "Installing /tmp/tflint to /bin..."
-  mv /tmp/tflint /bin/
-  retVal=$?
-  if [ $retVal -ne 0 ]; then
-    echo "Failed to install tflint"
-    exit $retVal
-  else
-    echo "tflint installed at /bin/ successfully"
-  fi
-else
-  echo "Installing /tmp/tflint to /usr/local/bin..."
-  
-  if [[ "$(id -u)" == 0 ]]; then SUDO=""; else
-    SUDO="";
-  fi
 
-  $SUDO mkdir -p /usr/local/bin
-  $SUDO install -b -c -v /tmp/tflint /usr/local/bin/
-  retVal=$?
-  if [ $retVal -ne 0 ]; then
-    echo "Failed to install tflint"
-    exit $retVal
-  else
-    echo "tflint installed at /usr/local/bin/ successfully"
-  fi
-fi
 
-echo "Cleaning /tmp/tflint.zip and /tmp/tflint ..."
-rm /tmp/tflint.zip /tmp/tflint
+echo "Cleaning /tmp/tflint.zip ..."
+rm /tmp/tflint.zip 
 
 echo -e "\n\n===================================================="
 echo "Current tflint version"
-tflint -v
+/tmp/tflint -v
