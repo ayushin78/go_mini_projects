@@ -67,7 +67,7 @@ else
   echo "Installing /tmp/tflint to /usr/local/bin..."
   
   if [[ "$(id -u)" == 0 ]]; then SUDO=""; else
-    SUDO="sudo";
+    SUDO="";
   fi
 
   $SUDO mkdir -p /usr/local/bin
