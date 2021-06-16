@@ -52,7 +52,7 @@ fi
 
 echo -e "\n\n===================================================="
 echo "Unpacking /tmp/tflint.zip ..."
-unzip -u /tmp/tflint.zip -d /tmp/
+unzip /tmp/tflint.zip -d /tmp/
 if [[ $os == "windows"* ]]; then
   echo "Installing /tmp/tflint to /bin..."
   mv /tmp/tflint /bin/
